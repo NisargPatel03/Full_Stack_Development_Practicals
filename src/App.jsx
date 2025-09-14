@@ -17,7 +17,7 @@ function App() {
     <>
       <Practical3 />
       {/* <Greet /> */}
-      {/* <Practical4 /> */}
+      <Practical4 /> 
     </>
   )
 }
